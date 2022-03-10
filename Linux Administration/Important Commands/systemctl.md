@@ -1,7 +1,7 @@
 # systemctl
 This command is used to control all units that are running by systemd.
 
-`systemclt` - shows all the running units.
+`systemctl` - shows all the running units.
 
 Command format:
 ```bash
