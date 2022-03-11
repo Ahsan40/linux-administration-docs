@@ -8,30 +8,80 @@
 		- [systemctl](Linux%20Administration/Important%20Commands/systemctl.md)
 		- [wall](Linux%20Administration/Important%20Commands/wall.md)
 	- [System Architectures](Linux%20Administration/System%20Architecture)
-		- [000. Linux General Knowladge](Linux%20Administration/System%20Architecture/000.%20Linux%20General%20Knowladge.md)
+
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/000.%20Linux%20General%20Knowladge.md">
+				000. Linux General Knowladge
+			</a>
+			</summary>
+
 			- Linux Hard Disk Layout
 				- Directories
 				- Partitions
 				- LVM
-		- [001. System Components](Linux%20Administration/System%20Architecture/001.%20System%20Components.md)
+			</details>
+
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/001.%20System%20Components.md">
+				001. System Components
+			</a>
+			</summary>
+
 			- udev
 			- dbus
 			- sysfs
 			- procfs
-		- [002. Run Levels](Linux%20Administration/System%20Architecture/002.%20Run%20Levels.md)
+			</details>
+			
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/002.%20Run%20Levels.md">
+				002. Run Levels
+			</a>
+			</summary>
+
 			- systemv
 			- systemd
 			- Targets
 			- Change Run Level
-		- [003. Boot Loader](Linux%20Administration/System%20Architecture/003.%20Boot%20Loader.md)
+			</details>
+			
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/003.%20Boot%20Loader.md">
+				003. Boot Loader
+			</a>
+			</summary>
+
 			- Change GRUB Configs
 			- Boot into Rescue Mode From GRUB Menu
-		- [004. Linking](Linux%20Administration/System%20Architecture/004.%20Linking.md)
+			</details>
+		
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/004.%20Linking.md">
+				004. Linking
+			</a>
+			</summary>
+
 			- Static Linking
 			- Dynamic Linking
 			- Add Custom Library
 			- Remove Custom Library
 			- Troubleshooting
-		- [005. Environment Variables](Linux%20Administration/System%20Architecture/005.%20Environment%20Variables.md)
+			</details>
+
+		- <details>
+			 <summary>
+			<a href="Linux%20Administration/System%20Architecture/005.%20Environment%20Variables.md">
+				005. Environment Variables
+			</a>
+			</summary>
+
 			- Add Custom Lib Using Environment Variables
+			</details>
+
 ### More will be added soon
+
