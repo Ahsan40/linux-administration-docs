@@ -77,6 +77,9 @@
 		<a href="Linux%20Administration/System%20Architecture/005.%20Environment%20Variables.md">005. Environment Variables</a>
 		</summary>
 
+		- Add Environment Variables
+		- Make Permanent Environment Variables
+		- Remove Environment Variables
 		- Add Custom Lib Using Environment Variables
 		</details>
 
