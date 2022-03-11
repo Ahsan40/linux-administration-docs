@@ -1,3 +1,12 @@
-# What is this?
-I just thought it would a nice addition to my CV if I write a documentation of everything I know. So, I started with Linux. I will index everything here after I finish writing.
- 
+# Index
+- [Linux Administration](Linux%20Administration)
+	- [Important Commands](Linux%20Administration/Important%20Commands)
+		- [cd](Linux%20Administration/Important%20Commands/cd.md)
+		- [lsmod](Linux%20Administration/Important%20Commands/lsmod.md)
+		- [lspci](Linux%20Administration/Important%20Commands/lspci.md)
+		- [shutdown](Linux%20Administration/Important%20Commands/shutdown.md)
+		- [systemctl](Linux%20Administration/Important%20Commands/systemctl.md)
+		- [wall](Linux%20Administration/Important%20Commands/wall.md)
+
+
+### More will be added soon
